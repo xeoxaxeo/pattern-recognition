@@ -1,5 +1,5 @@
 # Pattern Recognition Repository
-
+```
 pattern-recognition/
 │
 ├─ data/
@@ -32,7 +32,7 @@ pattern-recognition/
 │   └─ ...  ← 기타 모델
 │
 └─ README.md
-
+```
 ---
 
 ## 📁 디렉터리 & 파일명 규칙
