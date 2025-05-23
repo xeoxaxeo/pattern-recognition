@@ -47,11 +47,13 @@ pattern-recognition/
 
 ### 2. 모델 (model/)
 - 서브폴더 구조:
+```
   model/
   └─ <model_name>/
       ├─ main_<model_name>.ipynb
       └─ result/
           └─ <model_name>_metrics.csv
+```
 - 파일명 컨벤션 (Notebooks)
   1. 소문자 + snake_case  
   2. 접두사 main_ = “메인 실행 파일”  
