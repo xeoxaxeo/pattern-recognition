@@ -1,0 +1,3 @@
+2025-05-31 12:47:09,838 [INFO] CUDA_VISIBLE_DEVICES=0
+2025-05-31 12:47:09,994 [INFO] scale_pos_weight=1.017  (neg=8957, pos=8803)
+2025-05-31 12:47:09,995 [INFO] Optuna search (30 trials) 시작

@@ -1,0 +1,6 @@
+2025-05-31 12:50:02,619 [INFO] CUDA_VISIBLE_DEVICES=CPU
+2025-05-31 12:50:02,774 [INFO] scale_pos_weight=1.017  (neg=8957, pos=8803)
+2025-05-31 12:50:02,774 [INFO] Optuna search (30 trials) 시작
+2025-05-31 12:55:44,906 [INFO] Optuna best params: {'lr': 0.05488537148418089, 'depth': 5, 'l2': 9.817914257324231, 'border': 142, 'bag_temp': 0.6954685663046114, 'rand_strength': 0.24504005921655417, 'colsample': 0.8477957624150867}  |  best Composite=0.6915
+2025-05-31 12:55:53,809 [INFO] Best iteration via early-stopping: 227
+2025-05-31 12:55:54,007 [INFO] Validation Acc=0.6727  F1=0.6727  AUC=0.7289  Comp=0.6915
